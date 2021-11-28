@@ -12,8 +12,8 @@ char auth[] = ""; // from the blynk app
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = ""; local wifi ssid
-char pass[] = "";local wifi password
+char ssid[] = ""; //local wifi ssid
+char pass[] = ""; //local wifi password
 void setup() {
   
   Serial.begin (9600);
