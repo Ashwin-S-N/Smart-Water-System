@@ -1,7 +1,7 @@
 
 <h1>Smart water system in apartments</h1>
 <h3> Working video link on YouTube:</h3>
-<a href="https://youtu.be/kwC6k0lqpd4">YouTube</a>
+<a href="https://youtu.be/kwC6k0lqpd4" target="_blank">YouTube</a>
 <p>This project contains two codes for the two boards used<p>
 <p> One board is the NodeMCU ESP8266 and Arduino UNO R3</p>
 <ul>
